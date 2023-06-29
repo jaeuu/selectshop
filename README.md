@@ -1,20 +1,35 @@
-# selectshop
-http://jaewoo.shop
 
-스파르타코딩클럽 웹개발 - 스프링 수업 내용 정리입니다. https://spartacodingclub.kr/online/spring
+![](https://velog.velcdn.com/images/limjaewoo/post/5a880889-24aa-441d-b784-e4f74bd6dda8/image.PNG)
 
-1. 일단 스프링 부트를 띄우고, 어떻게 텍스트가 화면에 나오는지 살펴봅니다.
-2. 스프링 컨트롤러를 만들고, 클래스 정보를 화면에 나타낼 수 있는 방법을 살펴봅니다.
-3. RDBMS, SQL, Lombok, JPA 사용해보기
-4. RDBMS의 기본 개념을 배웁니다.
-5. Spring Data JPA를 처음으로 사용해봅니다. 정보를 DB에 저장하고 조회해서 다시 브라우저에 띄워봅니다.
-6. DTO를 만들어 API의 Request, Response를 다루는 방법을 찾아봅니다.
-7. ARC로 만든 API로 테스트해봅니다.
-8. 웹서비스를 처음으로 만들어 봄으로써, 스프링 부트 개발의 한 사이클을 이해합니다.
-9. HTML, CSS, Javascript, jQuery 를 이용하여 직접 프론트엔드를 만들어봅니다.
-10. 네이버 검색 API를 이용해서 상품 정보를 가져와봅니다.
-11. 가져온 상품 정보를 데이터베이스에 저장하고 메인 페이지에 표시해봅니다.
-12. 매일 정해진 시간에 Java로 작업을 수행하는 스프링 스케줄링을 알아봅니다. 
-13. OG 태그를 알아보고, 카톡방에 url을 공유했을 때 요약 정보가 나타나도록 해봅니다.
-14. 프로젝트를 완성하고 AWS EC2, RDS에 배포합니다.
-15. 도메인을 구매해서 연결한 후 접속해봅니다.
+- 🌍 web url : http://jaewoo.shop/
+- 💬 explanation : 상품을 검색하고 최저가를 설정할 수 있는 웹사이트를 만들었습니다.  😄
+
+
+<br>
+<br>
+
+# 🔎 상세 이미지
+![](https://velog.velcdn.com/images/limjaewoo/post/1d6871cc-9587-408f-a5c1-89bde786c564/image.PNG)
+
+![](https://velog.velcdn.com/images/limjaewoo/post/75a21e63-fb55-48c1-a8e4-3275b44b3386/image.PNG)
+
+<br>
+
+> 상품을 검색할 수 있습니다.
+
+<br>
+<br>
+
+![](https://velog.velcdn.com/images/limjaewoo/post/dece9279-7e01-4c88-9a62-cb3aac5f98d3/image.PNG)
+
+<br>
+
+> 최저가를 설정할 수 있고, 상품의 가격이 설정한 가격 이하가 되면 최저가 마크가 노출됩니다.
+
+<br>
+<br>
+
+![](https://velog.velcdn.com/images/limjaewoo/post/9ea465b0-0a96-4142-80e7-94d023768ddf/image.PNG)
+
+
+> 최저가로 설정한 상품목록 리스트에서 상품 선택 시 네이버 쇼핑 화면으로 이동합니다.
