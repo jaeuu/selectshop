@@ -2,7 +2,7 @@
 ![](https://velog.velcdn.com/images/limjaewoo/post/5a880889-24aa-441d-b784-e4f74bd6dda8/image.PNG)
 
 - 🌍 web url : http://jaewoo.shop/
-- 💬 explanation : 상품을 검색하고 최저가를 설정할 수 있는 웹사이트를 만들었습니다.  😄
+- 💬 explanation : 상품을 검색하고 최저가를 설정할 수 있는 웹사이트를 만들었습니다. 😄
 
 
 <br>
